@@ -46,5 +46,4 @@ I developed an ROI calculator to compare a "Mass Marketing" strategy vs. a "Caus
 3. Execute all cells to view the EDA, Model Training, and ROI Simulation.
 
 ---
-**Author:** Abhilasha Choudhary 
-**Field:** Data Science / Machine Learning
+
